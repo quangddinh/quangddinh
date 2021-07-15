@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quangddinh
-- 👀 I’m interested in Vue 3
+- 👀 I’m interested in Vue JS
 - 🌱 I’m currently learning Javascript & Vue 3
 
 <!---
